@@ -11,7 +11,7 @@ This is a content-based Movie Recommender System built using **Python**, **Strea
 
 ## Live Demo
 
-Try out the live app here: [Movie Recommender System](https://your-streamlit-link.com)
+Try out the live app here: [Movie Recommender System](https://muhammadmateensadiq-movie-recommender-web-app-abs8uo.streamlit.app/)
 
 ## GitHub Repo of Notebook
 
