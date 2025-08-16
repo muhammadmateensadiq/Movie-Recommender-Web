@@ -4,10 +4,10 @@ This is a content-based Movie Recommender System built using **Python**, **Strea
 
 ## Features
 
---Search from hundreds of movies
---Content-based recommendation
---Displays posters of recommended movies
---Clean and interactive interface
+- Search from hundreds of movies  
+- Content-based recommendation  
+- Displays posters of recommended movies  
+- Clean and interactive interface
 
 ## Live Demo
 
