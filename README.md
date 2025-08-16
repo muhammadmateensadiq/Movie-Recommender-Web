@@ -4,10 +4,10 @@ This is a content-based Movie Recommender System built using **Python**, **Strea
 
 ## Features
 
---Search from hundreds of movies
---Content-based recommendation
---Displays posters of recommended movies
---Clean and interactive interface
+-Search from hundreds of movies
+-Content-based recommendation
+-Displays posters of recommended movies
+-Clean and interactive interface
 
 ## Live Demo
 
@@ -15,8 +15,8 @@ Try out the live app here: [Movie Recommender System](https://your-streamlit-lin
 
 ## GitHub Repo of Notebook
 
-GitHub Repo: [View on GitHub](https://github.com/muhammadmateensadiq/Movie-Recommender-System) ␣␣
-*Note: This repository contains the Jupyter Notebook (`.ipynb`) code used for developing the model.*
+GitHub Repo: [View on GitHub](https://github.com/muhammadmateensadiq/Movie-Recommender-System) 
+> *Note: This repository contains the Jupyter Notebook (`.ipynb`) used for developing and training the model.*
 
 ## Author
 Created by Muhammad Mateen Sadiq
