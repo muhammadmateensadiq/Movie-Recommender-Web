@@ -9,9 +9,9 @@ This is a content-based Movie Recommender System built using **Python**, **Strea
 - Displays posters of recommended movies  
 - Clean and interactive interface
 
-## Live Demo
+<!-- ## Live Demo -->
 
-Try out the live app here: [Movie Recommender System](https://muhammadmateensadiq-movie-recommender-web-app-abs8uo.streamlit.app/)
+<!-- Try out the live app here: [Movie Recommender System]() -->
 
 ## GitHub Repo of Notebook
 
